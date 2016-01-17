@@ -1,1 +1,1 @@
-Обучение react через pluralsight
+React app
