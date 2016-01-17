@@ -1,1 +1,1 @@
-# react-test-app
+Обучение react через pluralsight
